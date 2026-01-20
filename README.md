@@ -10,4 +10,4 @@ Insights are presented by department, highlighting differences in engagement and
 
 In addition, the dashboard includes time-based analysis, showing how work-life balance evolves over time. This makes it easier to identify trends, improvements, or declines related to organizational changes or HR initiatives.
 
-Overall, this project demonstrates the use of HR analytics, interactive reporting, and visualization techniques to turn complex employee data into meaningful insights that support strategic workforce planning, performance management, and employee experience improvement.
+Overall, this project demonstrates the use of HR analytics, interactive reporting, and visualization techniques to turn complex employee data into meaningful insights that support strategic workforce planning, performance management, and employee experience improvement. 
